@@ -6,7 +6,7 @@ public class Main {
 		System.out.println("2");
 		System.out.println("2222");
 		
-		
+		System.out.println("kak2i");
 		
 		System.out.println("kaki");
 	}
