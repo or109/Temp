@@ -20,10 +20,17 @@ public class Try {
 
 	private void AAA() {
 	}
+	private void ccc() {
+		// TODO Auto-generated method stub
 
+	}
 	private void BBB() {
 
 		// TODO Auto-generated method stub
 
+	}
+	private void MAS() {
+		// TODO Auto-generated method stub
+		System.out.println("Mater");
 	}
 }
