@@ -4,6 +4,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("gfdfs");
 		System.out.println("2");
+		System.out.println("2222");
 	}
 
 }
+
