@@ -8,5 +8,6 @@ public class Lolo {
 		System.out.println("my ! ");
 		System.out.println("my ! ");
 		System.out.println("my ! ");
+		System.out.println("my22 ! ");
 	}
 }
