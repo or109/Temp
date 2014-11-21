@@ -5,5 +5,6 @@ public class City {
 	public City() {
 		// TODO Auto-generated constructor stub
 		this.yoyo = 1;
+		System.out.println("Matser Best");
 	}
 }
