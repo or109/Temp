@@ -3,6 +3,7 @@ package add;
 public class Try {
 	public Try() {
 		// TODO Auto-generated constructor stub
+		hashCode();
 	}
 
 	@Override
