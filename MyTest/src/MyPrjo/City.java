@@ -12,5 +12,7 @@ public class City {
 		System.out.println("Matser Best");
 		
 		System.out.println("THa mada faka NEW BRACNH");
+		System.out.println("THa mada faka NEW BRACNH");
+		System.out.println("THa mada faka NEW BRACNH");
 	}
 }
