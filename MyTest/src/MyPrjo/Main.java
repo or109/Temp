@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("kaki");
 		
 		System.out.println("end of brancj");
+		System.out.println("end of branch 2");
 	}
 
 }
