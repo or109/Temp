@@ -17,4 +17,8 @@ public class Try {
 		// TODO Auto-generated method stub
 		return super.toString();
 	}
+	private void AAA() {
+		// TODO Auto-generated method stub
+
+	}
 }
