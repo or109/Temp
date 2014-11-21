@@ -5,6 +5,10 @@ public class Main {
 		System.out.println("gfdfs");
 		System.out.println("2");
 		System.out.println("2222");
+		
+		
+		
+		System.out.println("kaki");
 	}
 
 }
